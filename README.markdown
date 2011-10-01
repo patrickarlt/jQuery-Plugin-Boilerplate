@@ -15,4 +15,5 @@
 4. Use you plugin like this
 
     $("#selector").complexPlugin({myOption:true});
+    
     $("#selector").complexPlugin('methodName');
